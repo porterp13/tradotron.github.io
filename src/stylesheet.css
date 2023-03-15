@@ -2,21 +2,24 @@ body {
     background-image: url("../8576F790-2BB6-4409-B8D2-7DC839D9584B.JPEG");
     background-size: cover;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
-    margin: auto;
+    margin-top: 39vh;
+    margin-left: 12vh;
 }
 
 #buy {
-    height: 150px;
-    width: 300px;
-    margin-top: 7vh;
-    background-color: green
+    height: 55px;
+    width: 55px;
+    background-color: green;
+    border-radius: 50%;
 }
 
 #sell {
-    height: 150px;
-    width: 300px;
-    margin-top: 7vh;
-    background-color: green
+    height: 55px;
+    width: 55px;
+    margin-top: .4vh;
+    margin-left: 9.6vh;
+    background-color: green;
+    border-radius: 50%;
 }
