@@ -5,7 +5,7 @@ body {
     display: flex;
     flex-direction: row;
     align-items: center;
-    margin-top: 326vh;
+    margin-top: 338vh;
 }
 
 #buy {
@@ -15,17 +15,17 @@ body {
     border-radius: 50%;
     font: Bold 16px Helvetica;
     color: #20d33e;
-    margin-top: -565.7vh;
-    margin-left: 6.7vh;
+    margin-top: -540.7vh;
+    margin-left: 5.9vh;
 }
 
 #sell {
     height: 85px;
     width: 85px;
-    margin-top: -563.7vh;
-    margin-left: 13.2vh;
+    margin-top: -538.7vh;
+    margin-left: 12.5vh;
     background-color: green;
     border-radius: 50%;
-    font: Bold 16px Helvetica;
+        font: Bold 16px Helvetica;
     color: #20d33e;
 }
