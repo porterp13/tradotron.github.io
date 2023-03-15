@@ -13,6 +13,8 @@ body {
     width: 55px;
     background-color: green;
     border-radius: 50%;
+    font: Bold 20px Helvetica;
+    color: #20d33e;
 }
 
 #sell {
@@ -22,4 +24,6 @@ body {
     margin-left: 9.6vh;
     background-color: green;
     border-radius: 50%;
+        font: Bold 20px Helvetica;
+    color: #20d33e;
 }
